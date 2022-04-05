@@ -1,0 +1,48 @@
+h1 {
+    color: gray;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    color: darkgrey;
+    margin: 0;
+}
+
+.greentea {
+    color: greenyellow;
+}
+
+.bluetea {
+    color: aqua;
+}
+
+.purpletea {
+    color: purple;
+}
+
+.redtea {
+    color: red;
+}
+#berry {
+    color: pink;
+}
+
+.header {
+    background-color: goldenrod;
+}
+
+.content {
+    background-color: tomato;
+}
+
+.footer {
+    background-color: silver;
+}
+
+.textbg {
+    background-color: yellow;
+}
+
+p img {
+    width: 50px;
+}
